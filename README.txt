@@ -26,3 +26,5 @@ To ensure data integrity, the system includes validation checks for ISBNs, libra
 IDs, and publication dates. With its intuitive code interfaces, this Library Management 
 System simplifies development tasks, providing a robust foundation for building custom 
 library management applications.
+
+https://github.com/Winter-Krimmert/Module-5-Library-Management-System-with-Database-Integration
